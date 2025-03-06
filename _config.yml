@@ -25,10 +25,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   and over seven years at The University of Manchester applying
   state-of-the-art computational methods to solve complex scientific
   and engineering problems for the industry. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/resume" # the subpath of your site, e.g. /blog
+url: "https://b-art-tec.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
 logo: ./assets/portrait_small_circle.png
 
 
