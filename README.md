@@ -1,1 +1,1 @@
-Repository for the resume..
+Repository for the resume.
