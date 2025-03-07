@@ -18,6 +18,27 @@ hr {
 }
 p.center {text-align: center;}
 
+* {box-sizing: border-box}
+.container {
+  width: 100%;
+  line-height: 1;
+  margin: 0 0 0.4em 0;
+  padding: 0 0px;
+  background-color: #ddd;
+}
+.skills {
+  text-align: right;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  color: white;
+}
+
+.research {width: 96%; background-color: #04AA6D;}
+.python {width: 72%; background-color: #2196F3;}
+.ml {width: 76%; background-color: #f44336;}
+.numpy {width: 89%; background-color: #04AA6D;}
+.materials {width: 91%; background-color: #2196F3;}
+
 </style>
 
 <p class="title"> DR BARTOSZ BARZDAJN</p>
@@ -80,7 +101,40 @@ This will become an awsome resume. Still WIP.
 -  Specialisation in Solid State Physics with emphasis on the quantum mechanical methods. 
 -  Solid foundations in linear algebra and mathematical analysis.
 
-# Skills
+# Skills overview
+
+<p style="margin-bottom:.1em">Research and development</p>
+<div class="container"><div class="skills research">96% &nbsp;</div></div>
+<p style="margin-bottom:.1em">Python</p>
+<div class="container"><div class="skills python">72% &nbsp;</div></div>
+<p style="margin-bottom:.1em">Machine Learning</p>
+<div class="container"><div class="skills ml">76% &nbsp;</div></div>
+<p style="margin-bottom:.1em">Python's computational ecosystem (numpy, scikit-learn, etc.)</p>
+<div class="container"><div class="skills numpy">89% &nbsp;</div></div>
+<p style="margin-bottom:.1em">Computational materials science (DFT, MD, CPFE, etc.)</p>
+<div class="container"><div class="skills materials">91% &nbsp;</div></div>
+
+<br>
+
+# Research projects
+
+**Data-driven modelling of grain boundaries (The Royal Society)**\
+An investigation into the applications of the state of the art machine-learning algorithms in the context on grain-boundary energy predictions.
+  
+**Mechanistic Understanding of Irradiation Damage in Fuel Assemblies (EPRSC)**\
+Simulation of early stages of irradiation damage and development of machine-learning interatomic potential for Zr.
+
+**Linking Microstructure to Neutron Irradiation Defects in Advanced Manufacture of Steels (EPRSC)**\
+Development of a self-consistent spd tight-binding model of iron based alloys.
+
+**Rolls-Royce co-sponsored PhD programme at Imperial College London in association with Kings College London**\
+Development of a predictive framework for galling in iron based hardfacings using crystal plasticity finite element method.
+
+**Traceability for Computationally Intensive Metrology (EMRP)**\
+Establishing a traceability for software implementing uncertainty quantification.
+
+
+# Detailed hard skills 
 
 - World-class expertise in applied science aimed at interpreting existing data and solving complex multi-domain problems, excellent analytical skills. 
 -  Extensive experience in dataset construction/synthesis and model-building, this includes extending existing models or developing them from scratch.
