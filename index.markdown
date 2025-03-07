@@ -21,17 +21,20 @@ p.center {text-align: center;}
 </style>
 
 <p class="title"> DR BARTOSZ BARZDAJN</p>
-<p class="center">
-<img src="./assets/orcid.svg" width="20" style="vertical-align: middle; padding: 0px 0px 3px 0px" />
+<p class="center" style="font-size: 12px">
+<img src="./assets/mail.svg" width="15" style="vertical-align: middle; padding: 0px 0px 3px 5px" />
+<a href="mailto:b.barzdajn@outlook.com" target="_blank">b.barzdajn@outlook.com</a> |
+<img src="./assets/tel.svg" width="15" style="vertical-align: middle; padding: 0px 0px 3px 5px" />
+<a href="tel:+48883230150" target="_blank">+48 883 230 150</a> |
+<img src="./assets/linkedin.svg" width="15" style="vertical-align: middle; padding: 0px 0px 3px 5px" />
+<a href="https://www.linkedin.com/in/bartosz-barzdajn" target="_blank">Network</a> | 
+<img src="./assets/orcid.svg" width="15" style="vertical-align: middle; padding: 0px 0px 3px 0px" />
 <a href="https://orcid.org/0000-0002-3081-4131" target="_blank">Publications</a>
-<img src="./assets/linkedin.svg" width="20" style="vertical-align: middle; padding: 0px 0px 3px 5px" />
-<a href="https://www.linkedin.com/in/bartosz-barzdajn" target="_blank">Network</a>
 </p>
 
 This will become an awsome resume. Still WIP.
 
-# Work experience
-
+# Work experience and education
 
 <div style="float: left; font-weight: bold"> The University of Manchester </div>
 <div style="float: right"> July 2017 - July 2024 </div> \
@@ -42,6 +45,15 @@ This will become an awsome resume. Still WIP.
 - Results supported by positive reception at international conferences, invited talks for renowned research groups, publications in reputable journals and commitments from other groups to continue my research
 - Extensive experience in developing and deploying for high performance computing (HPC) clusters using modern resource managers and version control systems -- necessary to achieve the above results.
 - Involvement in shaping of long-term research strategies, co-administration of large inter-institutional projects, active engagement in knowledge-transfers and mentorship.
+
+<div style="float: left; font-weight: bold"> Imperial College London</div>
+<div style="float: right"> March 2014 - July 2017 </div> \
+<span style="color:lightgray">London, United Kingdom</span>\
+*Postgraduate Researcher*
+- Development of a galling-failure predictive model for an experimental alloy.
+- Linking crystal plasticity finite element simulations and macroscopic failure while utilising survival analysis and Bayesian methods.
+- Close collaboration with Rolls-Royce plc..
+- Awarded Doctor of Philosophy PhD.
 
 <div style="float: left; font-weight: bold"> National Physical Laboratory </div>
 <div style="float: right"> March 2013 - December 2013 </div> \
@@ -60,70 +72,29 @@ This will become an awsome resume. Still WIP.
 - Using state-of-the-art statistical analysis and a deep physical understanding of the phenomena involved to improve traceability and methodologies in metrology. Results were presented during international meetings, conferences and published as scientific articles.
 - Advising government institutions and legislators.
 
-<!--   % --------------------------------------------------------- -->
-<!--   \bigskip -->
-<!--   \cventry -->
-<!--   {Researcher and Civil Servant}                     % Job title -->
-<!--   {Główny Urząd Miar (Poland's National Metrology Institute)} % Organization -->
-<!--   {Warszawa, PL}                                     % Location -->
-<!--   {November 2010 - January 2014}                     % Date(s) -->
-<!--   { -->
-<!--     \begin{cvitems} -->
-<!--     \item Management and development of calibration procedures (high-precision measurements), including maintenance of documentation and training of technicians, while adhering to the quality management system (ISO 17025 and ISO 9001). \smallskip -->
-<!--     \item Using state-of-the-art statistical analysis and a deep physical understanding of the phenomena involved to improve traceability and methodologies in metrology. Results were presented during international meetings, conferences and published as scientific articles. \smallskip -->
-<!--     \item Advising government institutions and legislators. -->
-<!--     \end{cvitems} -->
-<!--   } -->
 
-<!-- \end{cvhonors} -->
+<div style="float: left; font-weight: bold"> Uniwersytet im. A. Mickiewicza</div>
+<div style="float: right"> October 2003 - May 2010 </div> \
+<span style="color:lightgray">Poznań, Polska</span>\
+*Master of Theoretical Physics*
+-  Specialisation in Solid State Physics with emphasis on the quantum mechanical methods. 
+-  Solid foundations in linear algebra and mathematical analysis.
 
-<!-- \pagebreak -->
+# Skills
 
-<!-- \cvsection{Education} -->
-<!-- \begin{cvhonors} -->
-<!--   % --------------------------------------------------------- -->
-<!--   \cventry -->
-<!--   {Doctorate in Computational Materials Science} % Job title -->
-<!--   {Imperial College London}      % Organization -->
-<!--   {London, UK}                   % Location -->
-<!--   {March 2014 - July 2017} % Date(s) -->
-<!--   { -->
-<!--     \begin{cvitems} -->
-<!--     \item Development of a novel galling-failure predictive model for an experimental alloy. Linking crystal plasticity finite element (FEM) simulations, elements of Bayesian statistics and survival analysis with macroscopic failure. Results published in a reputable journal and work continued by fellow researchers. \smallskip -->
-<!--     \item Close collaboration with Rolls-Royce plc.. The work resulted in recommendations, consistent with independent experimental research, on how to tackle this complex industrial problem. \smallskip -->
-<!--     \item Awarded Doctor of Philosophy PhD (awarded 1st of April, 2019). -->
-<!--     \end{cvitems} -->
-<!--   } -->
-
-<!--   % % --------------------------------------------------------- -->
-<!--   % \bigskip -->
-<!--   % \cventry -->
-<!--   % {Postgraduate Researcher}     % Job title -->
-<!--   % {Imperial College London}     % Organization -->
-<!--   % {London, UK}                  % Location -->
-<!--   % {March 2014 - July 2017}      % Date(s) -->
-<!--   % { -->
-<!--   %   \begin{cvitems} -->
-<!--   %   \item Development of a galling-failure predictive model for an experimental alloy. -->
-<!--   %   \item Linking crystal plasticity finite element simulations and macroscopic failure while utilising survival analysis and Bayesian methods.  -->
-<!--   %   \item Close collaboration with \kw{Rolls-Royce plc.}.  -->
-<!--   %   \item Awarded Doctor of Philosophy (\kw{PhD}). -->
-<!--   %   \end{cvitems} -->
-<!--   % } -->
-  
-<!--   % --------------------------------------------------------- -->
-<!--   \bigskip -->
-<!--   \cventry -->
-<!--   {Master of Theoretical Physics} % Job title -->
-<!--   {Uniwersytet im. A. Mickiewicza}  % Organization -->
-<!--   {Poznań, PL}                      % Location -->
-<!--   {October 2003 - May 2010}         % Date(s) -->
-<!--   { -->
-<!--     Specialisation in Solid State Physics with emphasis on the quantum mechanical methods. Solid foundations in linear algebra and mathematical analysis. -->
-<!--     % \begin{cvitems} -->
-<!--     % \item  -->
-<!--     % \end{cvitems} -->
-<!--   } -->
-<!-- \end{cvhonors} -->
-
-
+- World-class expertise in applied science aimed at interpreting existing data and solving complex multi-domain problems, excellent analytical skills. 
+-  Extensive experience in dataset construction/synthesis and model-building, this includes extending existing models or developing them from scratch.
+-  **Statistical modelling**, **machine learning** (**ML**) and **data-science** applied to simulation and analysis of real-world systems.
+-  Commitment to building **accessible**, **explainable** and **responsible** models and methodologies, that can empower potential users, demonstrated by adherence to the principles of **open science**.
+-  Deep knowledge of various frameworks from computational material science, ranging from quantum-mechanical simulations to crystal plasticity finite element (**QUESTAAL**, **VASP**, **ACEsuit**, **LAMMPS**, **Abaqus + Python + Fortran** subroutines).
+-  Experience with various programming languages common in science and engineering (**C/C++**, **Fortran**, **Matlab/Octave**, **Julia**) and development tools (**Git**, **Make**, **Ninja**). 
+-  Development and deployment for high-performance computational cluster (**HPC**).
+-  Knowledge of job scheduling systems (**Slurm**, **PBS** and **SGE**).
+-  Expert knowledge of the **Python** computational ecosystem and related tools (**Jupyter**, **NumPy**, **Matplotlib**, **SymPy**, **Plotly**, etc.).
+-  **GNU/Linux OS’s** and its utilities as well as the **Bash** scripting language -- proficiency in using **UNIX's command-line interface**.
+-  Experience in parsing large volumes of unstructured data (raw outputs of various simulation software) utilising **Bash** and **Python**. 
+-  Building extensive **databases** of training data with features set based on in-depth **statistical analysis** and **unsupervised learning**.
+-  Experience with the **SQL** language.
+-  Implementation of certain **MLOps** principles for semi-automatic models selection and testing.
+-  **Statistical modelling** and **machine learning** (**ML**) modelling using **Keras** (with **TensorFlow** backend), **PyMC**, **GPy** and **Scikit-learn** and developed in-house code.
+-  Strong **self-publishing** and **graphical skills**. Practical knowledge of presentation frameworks (reveal.js), typesetting systems (**Latex**), Markdown, static-site generators (Jekyll) and open-source graphical programs (Krita, Inkscape, Blender, etc.).
