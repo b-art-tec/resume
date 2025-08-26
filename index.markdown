@@ -101,6 +101,7 @@ This will become an awsome resume. Still WIP.
 -  Specialisation in Solid State Physics with emphasis on the quantum mechanical methods. 
 -  Solid foundations in linear algebra and mathematical analysis.
 
+<--!
 # Skills overview
 
 <p style="margin-bottom:.1em">Research and development</p>
@@ -115,7 +116,7 @@ This will become an awsome resume. Still WIP.
 <div class="container"><div class="skills materials">91% &nbsp;</div></div>
 
 <br>
-
+-->
 # Research projects
 
 **Data-driven modelling of grain boundaries (The Royal Society)**\
