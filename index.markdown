@@ -58,6 +58,12 @@ This will become an awsome resume. Still WIP.
 # Work experience and education
 
 <div style="float: left; font-weight: bold"> The University of Manchester </div>
+<div style="float: right"> currently </div> \
+<span style="color:lightgray">NASK -PIB, Poland</span>\
+*AI and Machine Learning (ML) Engineer*
+- more to come ...
+
+<div style="float: left; font-weight: bold"> The University of Manchester </div>
 <div style="float: right"> July 2017 - July 2024 </div> \
 <span style="color:lightgray">Manchester, United Kingdom</span>\
 *Research Associate* (post-doc)
@@ -101,22 +107,6 @@ This will become an awsome resume. Still WIP.
 -  Specialisation in Solid State Physics with emphasis on the quantum mechanical methods. 
 -  Solid foundations in linear algebra and mathematical analysis.
 
-[
-# Skills overview
-
-# <p style="margin-bottom:.1em">Research and development</p>
-# <div class="container"><div class="skills research">96% &nbsp;</div></div>
-<p style="margin-bottom:.1em">Python</p>
-<div class="container"><div class="skills python">72% &nbsp;</div></div>
-<p style="margin-bottom:.1em">Machine Learning</p>
-<div class="container"><div class="skills ml">76% &nbsp;</div></div>
-<p style="margin-bottom:.1em">Python's computational ecosystem (numpy, scikit-learn, etc.)</p>
-<div class="container"><div class="skills numpy">89% &nbsp;</div></div>
-<p style="margin-bottom:.1em">Computational materials science (DFT, MD, CPFE, etc.)</p>
-<div class="container"><div class="skills materials">91% &nbsp;</div></div>
-
-<br>
-]: #
 # Research projects
 
 **Data-driven modelling of grain boundaries (The Royal Society)**\
