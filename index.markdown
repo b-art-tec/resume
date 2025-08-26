@@ -57,9 +57,9 @@ This will become an awsome resume. Still WIP.
 
 # Work experience and education
 
-<div style="float: left; font-weight: bold"> The University of Manchester </div>
+<div style="float: left; font-weight: bold"> NASK-PIB </div>
 <div style="float: right"> currently </div> \
-<span style="color:lightgray">NASK -PIB, Poland</span>\
+<span style="color:lightgray">Warsaw, Poland</span>\
 *AI and Machine Learning (ML) Engineer*
 - more to come ...
 
